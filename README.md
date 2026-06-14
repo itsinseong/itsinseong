@@ -2,9 +2,9 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsinseong&show_icons=true&bg_color=00000000&title_color=3A2C20&text_color=5E4632&icon_color=9B6B43&hide_border=true)](https://github.com/itsinseong)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsinseong&show_icons=true&bg_color=00000000&title_color=1A1714&text_color=2B2520&icon_color=3A2C20&hide_border=true)](https://github.com/itsinseong)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsinseong&layout=compact&bg_color=00000000&title_color=3A2C20&text_color=5E4632&hide_border=true)](https://github.com/itsinseong)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsinseong&layout=compact&bg_color=00000000&title_color=1A1714&text_color=2B2520&hide_border=true)](https://github.com/itsinseong)
 
 ---
 
