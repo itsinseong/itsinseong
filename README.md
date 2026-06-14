@@ -1,21 +1,13 @@
-<div align="center">
-
 # 강인성 · Inseong Kang
 
 디지털미디어 × AI융합 × 스테이블코인·금융경제구조  
 Ajou University
 
-</div>
-
 ---
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsinseong&show_icons=true&bg_color=00000000&title_color=3A2C20&text_color=5E4632&icon_color=9B6B43&hide_border=true&hide_rank=false)](https://github.com/itsinseong)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsinseong&show_icons=true&bg_color=FEF7EF&title_color=3A2C20&text_color=5E4632&icon_color=9B6B43&border_color=D9CFC4&hide_rank=false)](https://github.com/itsinseong)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsinseong&layout=compact&bg_color=FEF7EF&title_color=3A2C20&text_color=5E4632&border_color=D9CFC4)](https://github.com/itsinseong)
-
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsinseong&layout=compact&bg_color=00000000&title_color=3A2C20&text_color=5E4632&hide_border=true)](https://github.com/itsinseong)
 
 ---
 
@@ -51,8 +43,4 @@ Ajou University
 
 ---
 
-<div align="center">
-
 AI · Fintech · iOS — building at the intersection of three disciplines
-
-</div>
