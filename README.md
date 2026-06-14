@@ -1,8 +1,4 @@
-<div align="center">
-
-# 강인성 · Inseong Kang
-
-</div>
+# Welcome to My GitHub
 
 ---
 
