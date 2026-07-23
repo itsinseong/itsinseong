@@ -2,12 +2,6 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats-eta-five-11.vercel.app/api?username=itsinseong&show_icons=true&bg_color=00000000&title_color=464646&text_color=464646&icon_color=464646&hide_border=true)](https://github.com/itsinseong)
-
-[![Top Languages](https://github-readme-stats-eta-five-11.vercel.app/api/top-langs/?username=itsinseong&layout=compact&bg_color=00000000&title_color=464646&text_color=464646&hide_border=true)](https://github.com/itsinseong)
-
----
-
 <div align="center">
 
 ### Tech Stack
